@@ -1,3 +1,5 @@
+# pip install docx2pdf
+
 from docx2pdf import convert
 
 def convert_docx_to_pdf(docx_path, pdf_path):
